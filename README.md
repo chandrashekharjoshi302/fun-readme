@@ -75,6 +75,8 @@ Make sure to deploy by merging code to master. It will automatically handle ever
 
 Here is a beautiful diagram depicting the high level diagram of this service
 
+![Diagram](https://github.com/meroware/funny-readme/blob/master/diagram.png)
+
 ## Contributing
 
 Contributions are welcomed, always fun to colaborate [CONTRIBUTING.md](https://github.com/meroware)
